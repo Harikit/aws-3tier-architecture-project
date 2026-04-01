@@ -18,11 +18,11 @@
 
 ```
 
-Users → Route 53 → CloudFront
+Users → CloudFront
 
-&#x20;         ├── /\* → S3 (React Frontend)
+     ├── /\* → S3 (React Frontend)
 
-&#x20;         └── /api/\* → ALB → EC2 Auto Scaling (Django) → RDS MySQL
+     └── /api/\* → ALB → EC2 Auto Scaling (Django) → RDS MySQL
 
 ```
 
