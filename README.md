@@ -1,6 +1,8 @@
-\# AWS 3-Tier Architecture — Enterprise Django Application
+AWS 3-Tier Architecture — Enterprise Application
 
+VPC Configuration
 <img width="1205" height="608" alt="Screenshot 2026-04-02 122945" src="https://github.com/user-attachments/assets/e9ccafe2-6bc7-442b-b837-14c69131414c" />
+
 
 
 
