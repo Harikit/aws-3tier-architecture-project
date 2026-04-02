@@ -1,16 +1,9 @@
 \# AWS 3-Tier Architecture — Enterprise Django Application
 
+<img width="1205" height="608" alt="Screenshot 2026-04-02 122945" src="https://github.com/user-attachments/assets/e9ccafe2-6bc7-442b-b837-14c69131414c" />
 
 
-!\[AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
-!\[Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-!\[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-!\[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-!\[Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
 
 
 
